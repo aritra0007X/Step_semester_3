@@ -1,14 +1,12 @@
 # STEP Semester 3
 
-This repository contains my **STEP Semester 3** programming work, including live-coding exercises, weekly assignments, and Object-Oriented Programming (OOP) practice implemented in Java.
+This repository contains my **STEP Semester 3** programming work, including live-coding exercises, weekly assignments, homework, and Object-Oriented Programming (OOP) practice implemented in Java.
 
-The repository is organized week-wise so that the learning progress and submitted work can be easily tracked.
+The repository is organized week-wise to keep track of learning progress, coding practice, and assignments.
 
 ---
 
 ## 📚 Repository Structure
-
-The repository follows a weekly development workflow:
 
 ```text
 Step_semester_3/
@@ -29,5 +27,11 @@ Step_semester_3/
 ├── Week 4/
 │   ├── Week4ReinforcedConstructs.java
 │   └── Week4Assignment.java
+│
+├── Week 5/
+│   └── Week5CategoryB.java
+│
+├── Week 6/
+│   └── Week6IndividualHomework.java
 │
 └── README.md
